@@ -1,1 +1,12 @@
+# Navigate to your repo
+cd QuantitativeFinance-AdvancedSQL-CompleteCaseStudy
+
+# Delete the file
+git rm sql.gitkeep
+
+# Commit the change
+git commit -m "Remove misplaced file"
+
+# Push to GitHub
+git push origin main  # or your branch name
 
