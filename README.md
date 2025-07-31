@@ -1,4 +1,4 @@
-# QuantitativeFinance-AdvancedSQL-CompleteCaseStudy
+# QuantFinance-AdvancedSQL-CompleteCaseStudy
 
 QuantVault: A Real-World SQL Case Study for Financial & Strategic Analytics
 
